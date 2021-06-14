@@ -1,0 +1,212 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Buenos Aires",
+                "capital": "La Plata",
+                "habitantes": "17541141",
+                "depart": "135"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Catamarca",
+                "capital": "San Fernando del Valle de Catamarca",
+                "habitantes": "415438",
+                "depart": "16"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chaco",
+                "capital": "Resistencia",
+                "habitantes": "1204541",
+                "depart": "25"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chubut",
+                "capital": "Rawson",
+                "habitantes": "618994",
+                "depart": "1"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Cordoba",
+                "capital": "Cordoba",
+                "habitantes": "3760450",
+                "depart": "2"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Corrientes",
+                "capital": "Corrientes",
+                "habitantes": "1120801",
+                "depart": "21"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Entre Rios",
+                "capital": "Parana",
+                "habitantes": "1385961",
+                "depart": "2"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Formosa",
+                "capital": "Formosa",
+                "habitantes": "605193",
+                "depart": "3"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Jujuy",
+                "capital": "San Salvador de Jujuy",
+                "habitantes": "770881",
+                "depart": "6"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "La Pampa",
+                "capital": "Santa Rosa",
+                "habitantes": "358428",
+                "depart": "6"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "La Rioja",
+                "capital": "La Rioja",
+                "habitantes": "393531",
+                "depart": "2"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "habitantes": "1990338",
+                "depart": "6"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Misiones",
+                "capital": "Posadas",
+                "habitantes": "1261294",
+                "depart": "6"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Neuquen",
+                "capital": "Neuquen",
+                "habitantes": "664057",
+                "depart": "6"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Rio Negro",
+                "capital": "Viedma",
+                "habitantes": "747610",
+                "depart": "8"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Salta",
+                "capital": "Salta",
+                "habitantes": "1424397",
+                "depart": "9"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "habitantes": "781217",
+                "depart": "19"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "habitantes": "508328",
+                "depart": "9"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santa Cruz",
+                "capital": "Rio Gallegos",
+                "habitantes": "365698",
+                "depart": "2"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santa Fe",
+                "capital": "Santa Fe",
+                "habitantes": "3536418",
+                "depart": "12"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santiago del Estero",
+                "capital": "Santiago del Estero",
+                "habitantes": "978313",
+                "depart": "15"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Tierra del Fuego",
+                "capital": "Ushuaia",
+                "habitantes": "173432",
+                "depart": "4"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Tucuman",
+                "capital": "San Miguel de Tucum\u00e1n",
+                "habitantes": "1694656",
+                "depart": "11"
+            }
+        }
+    ]
+}
